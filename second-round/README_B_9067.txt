@@ -7,7 +7,7 @@
 - x5_stage2_final_solution_RU_FIXED.ipynb
 
 Файлы, которые ноутбук использует как входные артефакты ансамбля:
-- train_2.csv
+- train_2.csv(не получилось загрузить из за размера файла)
 - UPLOAD_9067_FINE_A014_A020_T0p75.csv
 - UPLOAD_H2_RECENCY_WEIGHTED_REGION_TRANSFER_CANDIDATE.csv
 - UPLOAD_9080_TRANSFER_BIAS_V1.csv
